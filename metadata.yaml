@@ -1,5 +1,8 @@
 _repo: Un-amour-de-Swann_62100
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62100-h/images/swann_cover.jpg
 creator:
   author:
     agent_name: Proust, Marcel
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Marcel_Proust
     - https://fr.wikipedia.org/wiki/Marcel_Proust
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62100#Un-amour-de-Swann
 gutenberg_issued: '2020-05-11'
 gutenberg_type: Text
 identifiers:
